@@ -1,4 +1,4 @@
-function add(
+function addN(
   n1: number,
   n2: number,
   showResult: boolean,
@@ -20,4 +20,4 @@ const value2 = 7.5;
 const showResult = true;
 const resultPhrase = "The result is: ";
 
-add(value1, value2, showResult, resultPhrase);
+addN(value1, value2, showResult, resultPhrase);
